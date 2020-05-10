@@ -89,14 +89,29 @@ p::first-letter{
   color: aqua;
  /* font-family: 'Amita', cursive;*/
   font-size: xx-large;
+  padding: 0px 10px;
+  margin-right: 2px;
   background-color: goldenrod;
   border: 7px groove salmon;
  }
+ /*p:first-letter{
+  font-size: 1.5em;
+  padding: 2px 10px;
+  margin-right: 5px; 
+  background: #FAF4F4;
+  border: 6px double;
+  color: #EE9966;
+  float: left;
+  font-weight: bold;
+}*/
 
 p {
   margin: auto;
   width: 800px;
-}  
+} 
+span {
+  background-color: aliceblue;
+} 
 
 .linktop {
   width: auto;
